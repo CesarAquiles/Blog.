@@ -1,0 +1,18 @@
+.menu{
+    width: 30%;
+    border-color: #00334b;
+    border: 5px;
+    border-style: solid;
+    text-align: center;
+}
+
+body {
+    color: #00334b;
+    background-color: #00ffdd;
+    }
+    
+.imagen {
+    width: 25%;
+    border: 5px solid #1B4F72;
+    float: right;
+    }
